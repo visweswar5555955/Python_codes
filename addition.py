@@ -5,7 +5,7 @@ a = True
 
 while a == True:
 
-    number1 = int(input("enter first number:"))
+    number1 = int(input("viswa asking to enter first number:"))
     number2 = int(input("enter second number:"))
     number3 = int(input("enter third number:"))
     sum = number1 + number2 + number3
